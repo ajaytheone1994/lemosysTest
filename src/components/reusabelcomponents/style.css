@@ -1,0 +1,18 @@
+ 
+.Image-education-section{
+    height: 100%;
+    width: 100%;
+    margin-left: 30px;
+}
+.Image-education-section img{
+    max-height: 300px;
+   
+}
+.profile-container{
+    height: 100%;
+    width: 100%
+}
+.profile-container img{
+     height: 50px;
+     border-radius: 50%;
+}
